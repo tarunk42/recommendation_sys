@@ -1,0 +1,7 @@
+fashion-dataset/
+.ipynb_checkpoints/
+*.json
+images/
+styles/
+*.jpeg
+*.jpg
