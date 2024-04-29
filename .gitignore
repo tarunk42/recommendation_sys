@@ -5,3 +5,4 @@ images/
 styles/
 *.jpeg
 *.jpg
+/model_weights.pth
