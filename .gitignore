@@ -3,6 +3,6 @@ fashion-dataset/
 *.json
 images/
 styles/
-*.jpeg
+# *.jpeg
 *.jpg
 /model_weights.pth
